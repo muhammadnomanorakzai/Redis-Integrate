@@ -53,7 +53,7 @@ node index.js
 🌍 Deployment
 
 Deployed on Vercel:
-https://your-vercel-link
+https://redis-integrate.vercel.app/
 
 Delete Redis key
 
